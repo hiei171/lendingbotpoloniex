@@ -41,6 +41,6 @@ Workflow management with Waffle.io
 
 ## Donations
 
-If you find it useful, please consider donating some bitcoins: 37VoSLbiqVWGDA5Y8rmo5XaQxPo551gBY8
+If you find it useful, please consider donating some bitcoins: 1H4fVS2rgM1ZYNmdRvkwFpA8P6ts5n7CyP
 
 This address goes to a multisignature wallet with keys held by the lead contributors: Mikadily, rnevet and Evanito.
